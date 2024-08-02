@@ -8,18 +8,19 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "fabric": "^5.3.0",
     "next": "latest",
     "react": "latest",
-    "react-dom": "latest",
-    "fabric": "^5.3.0",
-    "react-color": "^2.19.3"
+    "react-color": "^2.19.3",
+    "react-dom": "latest"
   },
   "devDependencies": {
+    "@types/fabric": "^5.3.3",
     "@types/node": "latest",
     "@types/react": "latest",
-    "@types/fabric": "^5.3.3",
     "@types/react-color": "^3.0.6",
     "autoprefixer": "latest",
+    "eslint": "^9.8.0",
     "postcss": "latest",
     "tailwindcss": "latest",
     "typescript": "latest"
