@@ -1,0 +1,19 @@
+@import 'tailwindcss/base';
+@import 'tailwindcss/components';
+@import 'tailwindcss/utilities';
+@import url('https://fonts.googleapis.com/css2?family=Caveat&display=swap');
+
+
+/* Custom fonts */
+.font-brush-script { font-family: 'Brush Script MT', cursive; }
+.font-dancing-script { font-family: 'Dancing Script', cursive; }
+.font-great-vibes { font-family: 'Great Vibes', cursive; }
+.font-allura { font-family: 'Allura', cursive; }
+.font-yellowtail { font-family: 'Yellowtail', cursive; }
+.font-rochester { font-family: 'Rochester', cursive; }
+.font-mr-de-haviland { font-family: 'Mr De Haviland', cursive; }
+.font-lovers-quarrel { font-family: 'Lovers Quarrel', cursive; }
+.font-monsieur-la-doulaise { font-family: 'Monsieur La Doulaise', cursive; }
+.font-herr-von-muellerhoff { font-family: 'Herr Von Muellerhoff', cursive; }
+.font-marck-script { font-family: 'Marck Script', cursive; }
+.font-alex-brush { font-family: 'Alex Brush', cursive; }
