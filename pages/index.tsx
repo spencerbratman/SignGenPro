@@ -351,7 +351,7 @@ const SignatureGenerator: React.FC = () => {
 
 
         <footer className="text-center text-gray-500 mt-8">
-          <p>&copy; 2024 Signature Generator. All rights reserved. | <a href="/privacy-policy" className="underline">Privacy Policy</a> | <a href="/terms-of-service" className="underline">Terms of Service</a></p>
+          <p>&copy; 2024 Signature Generator. All rights reserved. </p>
         </footer>
       </div>
     </>
